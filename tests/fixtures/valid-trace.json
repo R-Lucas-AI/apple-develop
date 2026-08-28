@@ -1,0 +1,30 @@
+{
+  "question": "How should an iOS journaling app preserve original voice while allowing editable transcription?",
+  "searchUrl": "https://developer.apple.com/search/",
+  "observedOnPage": true,
+  "observedAt": "2026-08-28T00:00:00Z",
+  "locale": "en-US",
+  "browser": "Safari",
+  "targetPlatform": "iOS",
+  "targetOSFloor": "17.0",
+  "requiredDimensions": ["user-control", "privacy", "accessibility", "framework", "version"],
+  "coveredDimensions": ["user-control", "privacy", "accessibility", "framework", "version"],
+  "results": [
+    {
+      "rank": 1,
+      "type": "documentation",
+      "title": "Generative AI",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/generative-ai",
+      "whyRelevant": "Addresses agency, disclosure, privacy, and reversible transformations.",
+      "opened": true,
+      "freshnessChecked": true
+    }
+  ],
+  "followUps": [
+    {
+      "question": "Which VoiceOver and Voice Control guidance applies to recording and transcript correction?",
+      "namedGap": "accessibility",
+      "materialChange": true
+    }
+  ]
+}
