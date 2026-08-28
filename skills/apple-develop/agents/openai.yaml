@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Develop"
+  short_description: "Ask Apple Search, read its ranked official results, then implement."
+  default_prompt: "Use $apple-develop to submit an intent-rich question on Apple Developer Search, inspect its ranked documentation, videos, sample code, and WWDC results, open the relevant official items, and turn the findings into a platform-correct decision."
